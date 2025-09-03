@@ -60,8 +60,6 @@ Vas a ver un vúmetro medio psicodélico mostrando el nivel de audio. Dejalo cor
 
 ## Filosofía y Licencia
 
-Este código es tuyo. Usalo, modificalo, compartilo. Si le encontrás una mejora, genial. Si te ahorró un dolor de cabeza, me alegro. No hay una licencia formal de esas que escriben los abogados de traje.
-
-Esto se rige por la **Licencia "Hacete Cargo"**: si lo usás y algo sale mal, es parte del juego. Si lo mejorás y no lo compartís, allá vos con tu conciencia. La idea es que nos sirva a todos los que remamos en dulce de leche para mantener nuestros proyectos a flote.
+Este código es tuyo. Usalo, modificalo, compartilo. Si le encontrás una mejora, genial. Si te ahorró un dolor de cabeza, me alegro. 
 
 ¡Salud y buena radio!
